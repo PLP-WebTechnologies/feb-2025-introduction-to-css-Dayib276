@@ -1,0 +1,37 @@
+/* 1. Element selector (body) */
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+  }
+  
+  /* 2. ID selector for header */
+  #main-header {
+    background-color: #4682b4;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  /* 3. Class selector for content section */
+  .content-section {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-left: 5px solid #4682b4;
+    border-radius: 8px;
+  }
+  
+  /* Style the image */
+  img.featured-image {
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid #4682b4;
+    border-radius: 12px;
+    margin-top: 20px;
+  }
+  
